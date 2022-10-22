@@ -1,0 +1,11 @@
+{
+"name" : "santhosh",
+"email" :"santhosh@gmail.com",
+"phoneNo" :7845486608,
+"prize":12.35,
+"payment":true,
+"address":{"streetName":"sakthi nager",
+            "district":"chennai",
+            "state":"TN" 
+            }
+}
